@@ -1,0 +1,10 @@
+{
+  "name": "bfs-agent-marketplace",
+  "version": "1.0.0",
+  "description": "Cognizant Banking & Insurance Agentic Marketplace — Azure Static Web App",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["azure", "static-web-app", "banking", "insurance", "marketplace"],
+  "license": "MIT"
+}
